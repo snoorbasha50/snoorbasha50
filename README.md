@@ -33,9 +33,9 @@
 
 <h3><i>Interested on my top projects? <img src="https://media2.giphy.com/media/dqOQq1ToYzf8fWODSb/giphy.gif" width="50" /></i></h3>
 <p align="left">
-  <a href="https://github.com/abhinavBisht94/geekbuying-clone" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Mini Store&color=1BB91F&logo=tmux&logoColor=FFFFFF&label=" alt="Lybrate" /></a> 
-  <a href="https://github.com/snoorbasha50/cricinfo_project" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Weather App&color=FD3A5C&logo=hotjar&logoColor=FFFFFF&label=" alt="Lybrate" /></a>   
-  <a href="https://github.com/Shreyansh051/AJIO_CLONE" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Translation App&color=840010&logo=Signal&logoColor=FFFFFF&label=" alt="Lybrate" /></a>   
+  <a href="https://github.com/abhinavBisht94/geekbuying-clone" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Geekbuying &color=1BB91F&logo=tmux&logoColor=FFFFFF&label=" alt="Lybrate" /></a> 
+  <a href="https://github.com/snoorbasha50/cricinfo_project" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=ESPN cricinfo &color=FD3A5C&logo=hotjar&logoColor=FFFFFF&label=" alt="Lybrate" /></a>   
+  <a href="https://github.com/Shreyansh051/AJIO_CLONE" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Ajio &color=840010&logo=Signal&logoColor=FFFFFF&label=" alt="Lybrate" /></a>   
 <!-- <a href="https://github.com/m-sehrawat/Facebook-Clone" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Facebook&color=1a78f4&logo=facebook&logoColor=FFFFFF&label=" alt="Lybrate" /></a>   
 <a href="https://github.com/m-sehrawat/Lybrate-Website-Clone-Version-2.0" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Lybrate&color=E60012&logo=stadia&logoColor=FFFFFF&label=" alt="Lybrate" /></a>   
 <a href="https://github.com/m-sehrawat/Adidas-Website-Clone" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Adidas&color=000000&logo=Adidas&logoColor=FFFFFF&label=" alt="adidas"/></a> -->
@@ -45,7 +45,7 @@
 <h3><i>Let's Connect !!<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></i></h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/noorbasha-shaik-491aa2201/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="m-sehrawat" /></a>
-  <a href="https://hashnode.com/@mohit-sehrawat" target="blank"><img align="center" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="m-sehrawat" /></a>
+<!--   <a href="https://hashnode.com/@mohit-sehrawat" target="blank"><img align="center" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="m-sehrawat" /></a> -->
   <a title="snoorbasha50@gmail.com" href="mailto:snoorbasha50@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="m-sehrawat" /></a> 
 </p>
 
@@ -53,7 +53,7 @@
 <h3><i>GitHub's Stats <img src="https://camo.githubusercontent.com/f11b92476ee793cfe97f20e0564ab552bd9bd670179d7b6772c59bb4d3218ca6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36352f63342f66342f36356334663435323537316265313236316539633632336637646134383861632e676966" width="35"/></i></h3>
 
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=m-sehrawat&count_private=true&show_icons=true&include_all_commits=true&hide=issues,contribs&border_radius=0&locale=en" alt="m-sehrawat" height="139"/><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-sehrawat&layout=compact&border_radius=0" alt="m-sehrawat" height="139" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=snoorbasha50&count_private=true&show_icons=true&include_all_commits=true&hide=issues,contribs&border_radius=0&locale=en" alt="Noorbasha" height="139"/><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snoorbasha50&layout=compact&border_radius=0" alt="m-sehrawat" height="139" />
 </p>
 
 
