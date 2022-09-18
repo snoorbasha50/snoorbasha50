@@ -1,6 +1,22 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Shaik Noorbasha <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35"></h1>
 <h3>- <i>An aspiring full stack developer with  specialization in 💻 MERN stack. Keenly interested in problem-solving and making user-centric products, self-motivated and curious. Team spirit & Good communicator & flexible collaborate with group projects. Looking forward to honing my skills in a challenging work environment.</i></h3>
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+- 📫 How to reach me *shaikshakeerss123@gmail.com*
+
+- ⚡ Fun fact *I am Fun*
+
+- 🌱 I love to code, build things & solve problems.
+ 
+- ⚡ I like to watch web series & movies, I also follow cricket.
+
+  -🔭 I’m currently working on [My Portfolio].
+
+- 💬 Ask me about *Html, Css, Javascript, React*
+
+- 👨‍💻 Want to know more? Check out my portfolio:  [here](https://shaik-shakeer-portfolio.vercel.app/)
+
 <!-- <h3>- <i>Currently working at Masai School as an Instructional Associate</i></h3> -->
 <br>
 
