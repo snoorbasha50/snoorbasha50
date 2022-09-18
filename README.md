@@ -3,21 +3,21 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 📫 How to reach me *shaikshakeerss123@gmail.com*
+
+- 📫 How to reach me *snoorbasha50@gmail.com*
 
 - ⚡ Fun fact *I am Fun*
 
 - 🌱 I love to code, build things & solve problems.
  
-- ⚡ I like to watch web series & movies, I also follow cricket.
+- ⚡ I like to watch web series & movies, I also follow cricket and I love cooking.
 
-  -🔭 I’m currently working on [My Portfolio].
 
-- 💬 Ask me about *Html, Css, Javascript, React*
+- 💬 Ask me about *Html, Css, Javascript, React ,Redux*
 
-- 👨‍💻 Want to know more? Check out my portfolio:  [here](https://shaik-shakeer-portfolio.vercel.app/)
+- 👨‍💻 Want to know more? Check out my portfolio:  [here](https://noorbashaportfolio.vercel.app/)
 
-<!-- <h3>- <i>Currently working at Masai School as an Instructional Associate</i></h3> -->
+
 <br>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=snoorbasha50&label=Profile%20views&color=0e75b6&style=flat" alt="vishal062" />
